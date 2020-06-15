@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# team: Stefani Diaz, Lakshay Khurana
+# team: Stefani Diaz, Lakshay Khurana, Panda
 # expert of exercise block 1: Stefani Diaz
 
 import random
