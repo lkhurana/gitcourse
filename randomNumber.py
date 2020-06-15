@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # team: Stefani Diaz, Lakshay Khurana
+# expert of exercise block 1: Stefani Diaz
 
 import random
 import time
