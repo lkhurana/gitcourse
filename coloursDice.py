@@ -51,3 +51,5 @@ if __name__ == "__main__":
         rolls.append(roll)
     print(rolls)
     sys.stdout.flush()
+    plt.bar(range(6),rolls)
+    plt.show()
