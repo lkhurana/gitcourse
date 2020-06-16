@@ -3,7 +3,6 @@
 #
 # team: Stefani Diaz, Lakshay Khurana, Panda
 # expert of exercise block 1: Stefani Diaz
-# Time: 10:50 am
 
 import random
 import time
@@ -43,7 +42,7 @@ def get_color_by_dice_naive(spots):
 
 
 if __name__ == "__main__":
-    outputfilename = "randomNumber"
+    outputfilename = "randomNumberFile"
     roll = get_random_number(1, 6)
     color = get_color_by_dice(roll)
     write_log_file(outputfilename, color)
