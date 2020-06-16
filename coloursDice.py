@@ -3,6 +3,7 @@
 #
 # team: Stefani Diaz, Lakshay Khurana, Panda
 # expert of exercise block 1: Stefani Diaz
+# Time: 10:50 am
 
 import random
 import time
