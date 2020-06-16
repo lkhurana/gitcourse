@@ -16,7 +16,7 @@ def get_random_number(start, end):
 
 def write_log_file(outputfilename, data):
     f = open(outputfilename+".log", "a")
-    f.write("Our randomly generated color is " + str(data) + " (" + time.strftime("%H:%M:%S") + ")\n")
+    f.write("Our new randomly generated color is " + str(data) + " (" + time.strftime("%H:%M:%S") + ")\n")
     f.close()
 
 
@@ -54,3 +54,4 @@ if __name__ == "__main__":
     sys.stdout.flush()
     plt.barh(range(6),dicerolls)
     plt.show()
+    
