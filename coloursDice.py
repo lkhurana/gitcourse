@@ -21,7 +21,7 @@ def write_log_file(outputfilename, data):
 
 
 def get_color_by_dice(spots):
-    colors = ["blue", "green", 'red', 'yellow', 'purple', 'orange']
+    colors = ["blue", "green", 'red', 'yellow', 'black', 'orange']
     return colors[spots-1]
 
 
